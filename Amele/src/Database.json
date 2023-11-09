@@ -1,0 +1,116 @@
+{
+    "Course": [
+      {
+        "id": 1,
+        "name":"introduction to react",
+        "instructor":"jhon doe",
+        "description":"Learn the basics of React Native development and build your first mobile app.",
+        "status":"oepn",
+        "thumbnail": "https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_640.jpg", 
+        "duration": "8 weeks", 
+        "location": "Online",
+        "schedule":"tusedays and thursday, 6PM - 8PM",
+        "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"]
+  
+  
+  
+      },
+      {
+        "id": 2,
+        "name":"introduction to react-2.0",
+        "instructor":"Ramesh",
+        "description":"Learn the basics of React Native development and build your first mobile app and website.",
+        "status":"In- process",
+        "thumbnail": "https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_640.jpg", 
+        "duration": "7 weeks", 
+        "location": "Online",
+        "schedule":"tusedays and wednesday, 6PM - 8PM",
+        "prerequisites": ["Intermediate JavaScript knowledge", "Familiarity with React"]
+  
+  
+  
+      },
+      {
+        "id": 3,
+        "name":"introduction to react-Native-2.0",
+        "instructor":"suresh",
+        "description":"Learn the advance of React Native development and build your first mobile app and website.",
+        "status":"oepn",
+        "thumbnail": "https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_640.jpg", 
+        "duration": "9 weeks", 
+        "location": "Online",
+        "schedule":"Mondays and wednesday, 6PM - 8PM",
+        "prerequisites": ["Intermediate JavaScript knowledge", "goood React native knoledge"]
+  
+  
+  
+      },
+      {
+        "id": 56,
+        "name":"Fun way to javascript",
+        "instructor":"Michel Jackson",
+        "description":"Learn the advance of React Native development and build your first mobile app and website.",
+        "status":"closed",
+        "thumbnail": "https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_640.jpg", 
+        "duration": "12 weeks", 
+        "location": "Online",
+        "schedule":"Mondays and wednesday, 6PM - 8PM",
+        "prerequisites": ["Intermediate JavaScript knowledge", "goood React native knoledge"]
+  
+  
+  
+      }
+  
+  
+  
+       
+   
+   
+    ],
+   "syllabus":[
+        {
+          
+            "week": 1,
+            "topic": "Introduction to React Native",
+            "content": "Overview of React Native, setting up your development environment."
+            
+        },
+        {
+          
+          "week": 3,
+          "topic": "Introduction to React Native 2.0",
+          "content": "setting up your development environment."
+          
+      }
+       ],
+  
+       "students":[
+        {
+          "id":101,
+          "fullname":"harsha",
+          "mail":"harsha@gmail.com",
+          "coursesin":["intro to react","intro to rect-2.0"]
+        
+          
+         
+  
+  
+        },
+        {
+          "id":102,
+          "fullname":"Ramu",
+          "mail":"ramu@gmail.com",
+  
+          "coursesin":["intro to react","intro to rect-2.0"]
+  
+        },
+        {
+          "id":103,
+          "fullname":"shamu",
+          "mail":"shamu@gmail.com",
+          "coursesin":["intro to react","intro to rect-2.0"]
+          
+  
+        }
+       ]
+  }
